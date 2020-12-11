@@ -1,6 +1,6 @@
 # W207_Final_Project
 
-Group member: Alice Hua, Derrick Xiong, Haley Farber
+Group members: Alice Hua, Derrick Xiong, Haley Farber
 
 Hello! This our final project for W207, our introduction to machine learning class. Our project is about predicting the popularity of online news articles. For our project, we scraped about 7,000 articles from Forbes from January 2020 to November 2020 and extracted article attributes such as an article's URL link, title, text, topic, time published,and number of views. We then created 65 features from these attributes. Most of these features were built and named after the features used by Kelwin Fernandes,Pedro Vinagre, and Paulo Cortez from their dataset that was used to measure the popularity of Mashable articles from 2013-2015. Instead of using shares to predict an article's popularity as was done by those who used the Mashable data set, we used views to predict an article's popularity and used linear regression to do so. The following documents are found in this repo:
 
